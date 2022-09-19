@@ -1,0 +1,9 @@
+# Generators format:
+# '<Material> : <Level> : <Image Link>'
+# Level 1 is the default level
+# Level 0 is broken generators
+# Example:
+# Generators:
+# - 'IRON_INGOT : 1 : https://i.imgur.com/BlEunPm.png'
+
+Generators: []

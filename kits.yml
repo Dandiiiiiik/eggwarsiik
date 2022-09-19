@@ -1,0 +1,14 @@
+# Kit item format: 'Item:Durability'
+# Kit armor format: 'Item:Durability : enchant:<enchantment>:level : name:<name> : lore:<lore>'
+# Kit items format: 'Item:Durability : Amount : enchant:<enchantment>:level : name:<name> : lore:<lore>'
+# For POTIONS, if your server is below 1.9 then use  POTION:DURABILITY to make potions like POTION:16421, otherwise you should use the form
+# POTION/SPLASH_POTION/LINGERING_POTION:POTION_TYPE:EXTENDED:UPGRADED
+# Example of the form -> 'SPLASH_POTION:INSTANT_DAMAGE:false:true : 1'
+# This plugin also supports friendly enchantment names, such as SHARPNESS or EFFICIENCY
+# There is no lock on the enchantment level!
+# Executed-commands placeholder is %player%
+# To use CrackShot items, write CrackShot:<Item>
+# For example: '100% :: CrackShot:AK-47 : 1'
+# For ItemEdit, write 'ItemEdit:<ITEM_ID>'
+# If you want to add QualityArmor guns / items, the format is: 'QualityArmory:<Item>'
+# For example, 'QualityArmory:awp : 1'
